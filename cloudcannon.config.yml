@@ -1,4 +1,4 @@
-source: /src/content
+source: /
 paths:
   uploads: uploads
 collections_config:
