@@ -2,5 +2,4 @@
 title: INTRO
 href: /intro
 ---
-
-Learn about AJBC Services
+Learn more about AJBC Services
