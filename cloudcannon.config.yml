@@ -23,4 +23,5 @@ data_config:
   landing:
     path: /src/content/landing
     parser: front-matter
+editor: {}
 timezone: Etc/UTC
